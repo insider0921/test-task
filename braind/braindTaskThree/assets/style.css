@@ -1,0 +1,39 @@
+form {
+  background: white;
+  float: left;
+  width: 100%;
+  padding: 30px;
+  border-radius: 0 20px 20px 0;
+  color: #7b7b7b; 
+  text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+p {
+  font-size: 1.1em;
+  text-align: center;
+}
+
+button {
+	color: white;
+	background-color: #48b915;
+	width: 100px;
+	height: 40px;
+}
+
+input[type="text"] {
+	border: solid 3px ;
+	margin-bottom: 3%;
+	background-color: white;
+	width: 400px;
+	height: 30px;
+}
+body{
+	background: url(images/image1.jpg);
+}
+
+
+
